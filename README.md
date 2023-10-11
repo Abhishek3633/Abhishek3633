@@ -6,7 +6,7 @@
 - 📫 How to reach me
 -   email - abhisheksinghbaghel3633@gmail.com
 -   LinkedIn🔗- https://www.linkedin.com/in/abhishek-singh-382a61176/
--   Twitter - @Abhishek_3633
+-   Twitter - @Abhishek_3633 🔗- https://twitter.com/Abhishek_3633
 
 <!---
 Abhishek3633/Abhishek3633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
