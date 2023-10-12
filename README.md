@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end/Clone project<br><br>🌱 I’m currently learning Html, Css, Javascript<br><br>👯 I’m looking to collaborate on Front-end, Programming, Machine Learning, Google Cloud Program<br><br>💬 Ask me about Coding, ML/AI dev, Web-Dev, Adobe Tools, Cloud<br><br>📫 How to reach me abhisheksinghbaghel3633@gmail.com<br><br>⚡ “Fix the cause, not the symptom.”<br></br>☁️  <a href="https://www.cloudskillsboost.google/public_profiles/6b2093ed-acdf-43f7-a0b9-6b07cc5759dd">Google cloud Program Badges</a>
+🔭 I’m currently working on **Front-end/Clone project**<br><br>🌱 I’m currently learning Html, Css, Javascript<br><br>👯 I’m looking to collaborate on **Front-end, Programming, Machine Learning, Google Cloud Program**<br><br>💬 Ask me about **Coding, ML/AI dev, Web-Dev, Adobe Tools, Cloud**<br><br>📫 How to reach me **abhisheksinghbaghel3633@gmail.com**<br><br>⚡ “Fix the cause, not the symptom.”<br></br>☁️  <a href="https://www.cloudskillsboost.google/public_profiles/6b2093ed-acdf-43f7-a0b9-6b07cc5759dd">Google cloud Program Badges</a>
 
 
 ## 🌐 Socials:
