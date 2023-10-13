@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ About Me:
 <a target="_blank" align="center">
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://miro.medium.com/v2/resize:fit:828/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 </a>
