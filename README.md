@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on **Front-end/Clone project**<br><br>🌱 I’m currently learning **Html, Css, Javascript**<br><br>👯 I’m looking to collaborate on **Front-end, Programming, Machine Learning, Google Cloud Program**<br><br>💬 Ask me about **Coding, ML/AI dev, Web-Dev, Adobe Tools, Cloud**<br><br>📫 How to reach me **abhisheksinghbaghel3633@gmail.com**<br><br>⚡ “Fix the cause, not the symptom.”<br></br>☁️  <a href="https://www.cloudskillsboost.google/public_profiles/6b2093ed-acdf-43f7-a0b9-6b07cc5759dd">Google cloud Program Badges</a>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/v2/resize:fit:828/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+</a>
+🔭 I’m currently working on **Front-end/Clone project**<br><br>🌱 I’m currently learning **Html, Css, Javascript**<br><br>👯 I’m looking to collaborate on **Front-end, Programming, ML/AI, GCP**<br><br>💬 Ask me about **Coding, ML/AI dev, Web-Dev, Adobe Tools, Cloud**<br><br>📫 How to reach me **abhisheksinghbaghel3633@gmail.com**<br><br>⚡ “Fix the cause, not the symptom.”<br></br>☁️  <a href="https://www.cloudskillsboost.google/public_profiles/6b2093ed-acdf-43f7-a0b9-6b07cc5759dd">Google cloud Program Badges</a>
 <br></br>
 
 # 🌐 Socials:
@@ -11,6 +14,5 @@
 <br></br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek3633&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek3633&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek3633&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
